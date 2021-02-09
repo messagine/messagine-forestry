@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "Let us find you a chat <br> you ever wanted"
-  images : "images/banner-art.svg"
+  image : "images/banner-art.svg"
   content : "Best messaging chat bot on Telegram"
   button:
     enable : true
@@ -35,7 +35,7 @@ feature:
 
     # feature item loop
     - name : "On Telegram"
-      icon : "ti-headphone-alt"
+      icon : "ti-layout-grid3"
       content : "No need to install another application on your phone"
 
     # feature item loop
