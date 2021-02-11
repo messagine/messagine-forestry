@@ -7,15 +7,15 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: data/homepage.yml
+  path: exampleSite/data/homepage.yml
   label: Homepage Data
 - type: heading
   label: Blog Post
 - type: document
-  path: content/blog/_index.md
+  path: exampleSite/content/blog/_index.md
   label: Blog Page
 - type: directory
-  path: content/blog
+  path: exampleSite/content/blog
   label: Blog Post
   create: documents
   match: "**/*"
@@ -25,24 +25,24 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: content/faq/_index.md
+  path: exampleSite/content/faq/_index.md
   label: FAQ
 - type: document
-  path: content/contact/_index.md
+  path: exampleSite/content/contact/_index.md
   label: Contact
 - type: document
-  path: content/pricing/_index.md
+  path: exampleSite/content/pricing/_index.md
   label: Pricing
 - type: document
-  path: content/privacy-policy/_index.md
+  path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
 - type: document
-  path: content/terms-conditions/_index.md
+  path: exampleSite/content/terms-conditions/_index.md
   label: Terms & Conditions
 - type: heading
   label: All Pages
 - type: directory
-  path: content
+  path: exampleSite/content
   label: All Pages
   create: all
   match: "**/*"
@@ -51,9 +51,9 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: config.toml
+  path: exampleSite/config.toml
   label: Configuration
-upload_dir: static/images
+upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
