@@ -15,32 +15,32 @@ feature:
   feature_item:
     # feature item loop
     - name : "Multilingual"
-      icon : "ti-world"
+      icon : "fa fa-globe"
       content : "More than 50 languages you can switch to chat"
 
     # feature item loop
     - name : "Open Source"
-      icon : "ti-world"
+      icon : "fab fa-github"
       content : "Bot source code is open source for peace of mind"
 
     # feature item loop
     - name : "24h Online"
-      icon : "ti-alarm-clock"
+      icon : "fa fa-clock"
       content : "Bot works 24h for socializing people in secrecy"
 
     # feature item loop
     - name : "Free"
-      icon : "ti-credit-card"
+      icon : "fa fa-credit-card"
       content : "You don't need to pay anything for using the bot"
 
     # feature item loop
     - name : "On Telegram"
-      icon : "ti-layout-grid3"
+      icon : "fab fa-telegram-plane"
       content : "No need to install another application on your phone"
 
     # feature item loop
     - name : "Cloud Support"
-      icon : "ti-cloud-up"
+      icon : "fa fa-cloud"
       content : "Backend is on scalable AWS servers having cloud power"
 
 
