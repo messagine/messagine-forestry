@@ -116,7 +116,7 @@ logo = "images/logo.png"
 logo_width = "200px"
 favicon = "images/favicon.png"
 # Meta data
-description = "This is meta description"
+description = "Best messaging chat bot on Telegram"
 author = "Messagine"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
