@@ -8,8 +8,11 @@ draft: false
 
 ### Why you should contact us
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+If you have any issues please contact us.
 
-* **Phone: +88 125 256 452**
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+<!-- * **Phone: +88 125 256 452** -->
+* **Mail: messaginebot@gmail.com**
+* **[Facebook](https://facebook.com/messagine)**
+* **[Instagram](https://instagram.com/messagine)**
+* **[Twitter](https://twitter.com/messagine)**
+<!-- * **Address: 360 Main rd, Rio, Brazil** -->

@@ -39,36 +39,25 @@ link = "plugins/slick/slick.min.js"
 
 ############################## navigation ###############################
 
-# main menu
-[[menu.main]]
-name = "Source Code"
-URL = "https://github.com/messagine/messagine-bot"
-weight = 1
-
-# [[menu.main]]
-# name = "Blog"
-# URL = "blog"
-# weight = 1
-
-# [[menu.main]]
-# name = "Pricing"
-# URL = "pricing"
-# weight = 2
-
 [[menu.main]]
 name = "Contact"
-URL = "mailto:messaginebot@gmail.com"
-weight = 3
-
-# [[menu.main]]
-# name = "FAQ"
-# URL = "faq"
-# weight = 4
+URL = "contact"
+weight = 1
 
 [[menu.main]]
 name = "Privacy Policy"
 URL = "privacy-policy"
-weight = 5
+weight = 2
+
+[[menu.main]]
+name = "Source Code"
+URL = "https://github.com/messagine/messagine-bot"
+weight = 3
+
+[[menu.main]]
+name = "Issues"
+URL = "https://github.com/messagine/messagine-bot/issues"
+weight = 4
 
 # footer menu left
 # [[menu.footer_left]]
@@ -119,7 +108,7 @@ favicon = "images/favicon.png"
 description = "Best messaging chat bot on Telegram"
 author = "Messagine"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xjvpdjnw" # contact form works with https://formspree.io
 
 ########### footer content ##########
 # footer_menu_left = "Company"
