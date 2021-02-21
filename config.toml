@@ -145,12 +145,12 @@ title = "twitter"
 icon = "fab fa-twitter"
 link = "https://twitter.com/messagine"
 
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/messagine"
+
 # [[params.social]]
 # title = "skype"
 # icon = "ti-skype"
-# link = "#"
-
-# [[params.social]]
-# title = "linkedin"
-# icon = "ti-linkedin"
 # link = "#"
