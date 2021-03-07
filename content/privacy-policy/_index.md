@@ -22,7 +22,7 @@ The personal information that you are asked to provide, and the reasons why you 
 
 If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-When you contact with our Telegram Bot you are registered for an account, we store some of your contact information, including items such as First Name, Last Name, Telegram Username, Language Code.
+When you contact with our Telegram Bot you are registered for an account, we store some of your contact information, including items such as First Name, Last Name, Telegram Username, Language Code, Messages sent.
 
 ## How we realize conversation secretly
 
