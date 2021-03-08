@@ -26,7 +26,7 @@ When you contact with our Telegram Bot you are registered for an account, we sto
 
 ## How we realize conversation secretly
 
-When you make a conversation with another user with our Telegram Bot, we do not share any collected information to any user. This does not apply your sent and received messages. Our Telegram Bot forwards their users' messages to their opponent without inserting/removing any information.
+When you make a conversation with another user with our Telegram Bot, we do not share any collected information to any user. This does not apply your sent and received messages. Our Telegram Bot forwards their users' messages to their opponent without including any personal information.
 
 ## How we use your information
 
@@ -49,10 +49,11 @@ Messagine Bot's Privacy Policy does not apply to advertisers or websites. Thus, 
 
 Link to privacy policy of third party service providers used by the app
 
-* [Telegram](https://telegram.org/privacy)
-* [Serverless](https://app.serverless.com/legal/privacy)
-* [mixpanel](https://mixpanel.com/legal/privacy-policy/)
-* [mongoDB](https://www.mongodb.com/legal/privacy-policy)
+* [Mixpanel, Inc.](https://mixpanel.com/legal/privacy-policy)
+* [MongoDB, Inc.](https://www.mongodb.com/legal/privacy-policy)
+* [Sentry](https://sentry.io/privacy)
+* [Serverless, Inc.](https://app.serverless.com/legal/privacy)
+* [Telegram Messenger Inc.](https://telegram.org/privacy)
 
 ## CCPA Privacy Rights (Do Not Sell My Personal Information)
 
